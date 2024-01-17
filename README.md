@@ -3,3 +3,7 @@
 
 ![运行示例](assets/example.jpg)
 运行后，会启动一个gradio应用，用户可以输入多个文献标题，每一行是一个标题，输出对应的BibTeX格式，不同论文的BibTex格式中间会空一行。
+
+## TODO
+- [ ] 自动改写会议名称，比如'International Conference on Learning Representations' ==> 'ICLR'
+- [ ] 多论文加速
